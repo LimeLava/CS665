@@ -17,6 +17,8 @@
       <a class="active" href="categories.php">Categories</a>
       <a href="employees.php">Employees</a>
       <a href="orders.php">Orders</a>
+      <a href="query1.php">Orders customer info</a>
+      <a href="query2.php">Orders employee info</a>
       <div class="topnav-right">
         <a href="insertCategory.php">Insert</a>
         <a href="updateCategory.php">Update</a>

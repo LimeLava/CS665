@@ -9,8 +9,8 @@
 				<input type="text" name="CategoryID" required id="CID">
 
 				<br></br>
-				<div class="deleteCategory">
-					<input name="deleteCategory" type="submit" value="delete Category">
+				<div class="DeleteCategory">
+					<input name="DeleteCategory" type="submit" value="Delete Category">
 				</div>
 			</form>
 		</center>
